@@ -3,7 +3,7 @@
 Make a local copy
 $git clone https://github.com/dabeaz-course/python-mastery.git
 
-PythonMastery.pdf has the slides.
-/Exercises, /Solutions, /Data hold relevant problems
+PythonMastery.pdf holds the slides
+/Exercises, /Data, /Solutions hold problems
 
-4/5 Days in person estimate or roughly 30-50 hours of work to complete
+Course was developed for 4/5 day in person training, or 30-50 hours estimate to complete.
