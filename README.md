@@ -10,4 +10,5 @@ Course was developed for 4/5 day in person training, or 30-50 hours estimate to 
 
 
 *Slide 52
+
 *ToDo 1-1, 1-2, 1-3 Exerc
