@@ -9,6 +9,6 @@ PythonMastery.pdf holds the slides
 Course was developed for 4/5 day in person training, or 30-50 hours estimate to complete.
 
 
-*Slide 138
+*Slide 161
 
-*Exe 2-6 Onward
+*Exe 3-2 Onward
