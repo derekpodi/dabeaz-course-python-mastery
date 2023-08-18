@@ -11,4 +11,4 @@ Course was developed for 4/5 day in person training, or 30-50 hours estimate to 
 
 *Slide 295
 
-*Exe 4.3 - 4.4 Onward
+*Exe 4.4 Onward
